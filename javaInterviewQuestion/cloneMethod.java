@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  package javaInterviewQuestion.javaInterviewQuestion;
+=======
+ package javaInterviewQuestion;
+>>>>>>> github/master
 
 import java.util.ArrayList;
 

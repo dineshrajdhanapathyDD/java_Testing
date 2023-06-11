@@ -1,6 +1,6 @@
 //Write a Java Program for swapping of 2 numbers.
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class SwapNumbersExample {
     public static void main(String[] args) {
@@ -17,3 +17,10 @@ public class SwapNumbersExample {
         System.out.println("num2 = " + num2);
     }
 }
+
+
+
+/*output :
+num1 = 20
+num2 = 10
+ */

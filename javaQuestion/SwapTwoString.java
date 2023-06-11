@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class SwapTwoString {
     public static void main(String[] args) {
@@ -15,3 +15,10 @@ public class SwapTwoString {
         System.out.println(s2);
     }
 }
+
+
+
+/*output:
+raj
+Dinesh
+ */

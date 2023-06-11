@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 import java.util.Scanner;
 
 
@@ -32,3 +32,12 @@ public class fibonacciSeries  {
 
     }
 
+/*output:
+enter number:
+4
+fibonacci series
+0
+1
+1
+2
+ */

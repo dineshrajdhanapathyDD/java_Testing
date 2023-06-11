@@ -1,4 +1,4 @@
- package javaInterviewQuestion;
+ package javaconcept.javaQuestion;
 
 import java.util.ArrayList;
 
@@ -15,3 +15,8 @@ public class cloneMethod {
         System.out.println(a12);
     }
 }
+
+
+/*output:
+[10, 13, 20]
+ */

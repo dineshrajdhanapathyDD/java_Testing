@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class ExtractLast4CharofString {
     public static void main(String[] args) {
@@ -15,3 +15,11 @@ public class ExtractLast4CharofString {
         }
     }
 }
+
+
+/*output :
+n
+e
+s
+h
+ */

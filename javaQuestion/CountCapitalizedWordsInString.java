@@ -1,6 +1,6 @@
 //Write a Java Program to get the count of Capitalized words in a String.
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class CountCapitalizedWordsInString{
     public static int getCapsWordsInString(String inputString) {
@@ -19,3 +19,8 @@ public class CountCapitalizedWordsInString{
     }
 
 }
+
+
+/*output:
+6
+ */

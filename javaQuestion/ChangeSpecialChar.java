@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class ChangeSpecialChar {
     public static void main(String[] args) {
@@ -8,6 +8,10 @@ public class ChangeSpecialChar {
     }
     private static String printDifferentspecialChar(String str)
     {
+
         return str.replaceAll("@", "_");
     }
 }
+
+
+//output: Hello_Dinesh

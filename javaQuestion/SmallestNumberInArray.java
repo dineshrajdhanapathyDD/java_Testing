@@ -1,4 +1,4 @@
-package javaInterviewQuestion.javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 import java.util.Scanner;
 
@@ -28,3 +28,15 @@ public class SmallestNumberInArray {
         System.out.println("smallest no:"+smallest);
     }
 }
+
+
+
+
+/*output :
+Enter the number of elements
+ 2
+enter the elements of array
+3
+4
+smallest no:3
+ */

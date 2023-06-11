@@ -1,4 +1,4 @@
-package javaInterviewQuestion.javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 import static com.sun.org.apache.xml.internal.security.keys.keyresolver.KeyResolver.length;
 
@@ -26,3 +26,8 @@ public class reverseEachWord {
         }
     }
 }
+
+
+/*output :
+jarhsenidyhtapnahd
+ */

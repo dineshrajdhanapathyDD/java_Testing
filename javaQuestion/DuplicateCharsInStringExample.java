@@ -1,6 +1,6 @@
 //Write a Java Program to find the duplicates of a given String.
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 import java.util.HashMap;
 import java.util.Set;
@@ -39,3 +39,7 @@ public class DuplicateCharsInStringExample {
     }
 
 }
+
+/*output:
+d-->3
+ */

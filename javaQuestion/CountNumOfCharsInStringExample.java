@@ -1,6 +1,6 @@
 //Write a Java Program to count the number of characters in a given String.
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 import java.util.HashMap;
 
 public class CountNumOfCharsInStringExample {
@@ -35,3 +35,7 @@ public class CountNumOfCharsInStringExample {
 
 }
 
+
+/*output :
+{ =1, a=4, D=1, d=1, e=1, h=3, i=1, j=1, n=2, p=1, r=1, s=1, t=1, y=1}
+ */

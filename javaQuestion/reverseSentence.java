@@ -1,4 +1,4 @@
-package javaInterviewQuestion.javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class reverseSentence {
     public static void main(String[] args) {
@@ -13,3 +13,8 @@ public class reverseSentence {
  }
  }
 }
+
+
+/*output:
+dhanapathy dineshraj am i
+ */

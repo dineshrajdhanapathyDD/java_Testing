@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class PrimeNumberExample {
     public static boolean isPrime(int num) {
@@ -27,3 +27,6 @@ public class PrimeNumberExample {
 
 }
 
+/*output:
+false
+ */

@@ -1,4 +1,4 @@
-package javaInterviewQuestion.javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class ReverseString {
     public static void main(String[] args) {
@@ -13,6 +13,8 @@ public class ReverseString {
         String str = "helloworld"; //method function
         printReverseofString(str); //calling
     }
+
+
     private static void printReverseofString(String str) //method
     {
         for(int i=str.length()-1; i>=0; i--)
@@ -23,3 +25,12 @@ public class ReverseString {
 
 
 }
+
+
+
+
+
+/* output:
+jarhsenid
+dlrowolleh
+ */

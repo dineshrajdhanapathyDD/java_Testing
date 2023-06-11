@@ -1,4 +1,4 @@
-package javaInterviewQuestion.javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class removeWhiteSPace {
     public static void main(String[] args) {
@@ -11,3 +11,8 @@ public class removeWhiteSPace {
         return newstr;
     }
 }
+
+
+/*output:
+DINESh
+ */

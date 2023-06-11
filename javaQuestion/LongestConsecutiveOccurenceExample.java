@@ -1,7 +1,7 @@
 //Write a Java Program to find the longest consecutive occurrence of integers in a given array.
 
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class LongestConsecutiveOccurenceExample {
     public static void main(String[] args) {
@@ -23,3 +23,8 @@ public class LongestConsecutiveOccurenceExample {
         System.out.println(max);
     }
 }
+
+
+/*output:
+4
+ */

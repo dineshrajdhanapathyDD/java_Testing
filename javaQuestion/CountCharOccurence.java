@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class CountCharOccurence {
     public static void main(String[] args) {
@@ -8,3 +8,8 @@ public class CountCharOccurence {
         System.out.println(result);
     }
 }
+
+
+/*output:
+4
+ */

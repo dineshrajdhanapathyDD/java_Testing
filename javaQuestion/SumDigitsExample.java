@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 public class SumDigitsExample {
 
     public static int getSumOfAllDigits(int num) {
@@ -22,3 +22,9 @@ return sum;
         System.out.println(getSumOfAllDigits(549)); //print the sum of all digits in the console
     }
 }
+
+
+
+/* output:
+18
+ */

@@ -1,4 +1,4 @@
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -24,3 +24,13 @@ public class Countwords {
         }
     }
 }
+
+
+/*output:
+count of word:=1
+count of word:dd=2
+count of word:i=1
+count of word:raj=3
+count of word:am=1
+count of word:dinesh=2
+ */

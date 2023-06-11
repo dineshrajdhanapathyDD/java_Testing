@@ -1,6 +1,6 @@
 //Write a Java Program to reverse an array?
 
-package javaInterviewQuestion;
+package javaconcept.javaQuestion;
 
 public class ReverseAnArray {
     public static void main(String[] args) {
@@ -27,3 +27,7 @@ public class ReverseAnArray {
     }
 
 }
+
+/*output :
+e d c b a
+ */
